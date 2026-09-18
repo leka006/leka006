@@ -43,13 +43,12 @@ I enjoy building practical projects and exploring **Generative AI, RAG, Computer
 I learn best by experimenting, solving problems, and turning ideas into working applications.  
 Currently, I'm exploring **AI Agents and intelligent LLM-powered systems**. ✨
 
-🌸 **Focus**
+🔻 **Focus**
 
 `Generative AI` · `RAG` · `Computer Vision` · `LLM Applications`
 
-<br>
 
-🌸 **Currently exploring**
+🔻 **Currently exploring**
 
 `AI Agents` · `Semantic Search` · `LLM-powered Applications`
 
