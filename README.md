@@ -62,13 +62,12 @@ Currently, I'm exploring **AI Agents and intelligent LLM-powered systems**. ✨
 
 <img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=FFB6C1&labelColor=0a0a0a"/>
 
-<br/>
+
 
 🤖 AI / ML
 
 <img src="https://img.shields.io/badge/PyTorch-0a0a0a?style=for-the-badge&logo=pytorch&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/TensorFlow-0a0a0a?style=for-the-badge&logo=tensorflow&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Scikit--learn-0a0a0a?style=for-the-badge&logo=scikitlearn&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/OpenCV-0a0a0a?style=for-the-badge&logo=opencv&logoColor=FFB6C1&labelColor=0a0a0a"/>
 
-<br/>
 
 🧠 Generative AI
 
