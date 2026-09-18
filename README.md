@@ -53,7 +53,6 @@ Currently, I'm exploring **AI Agents and intelligent LLM-powered systems**. ✨
 `AI Agents` · `Semantic Search` · `LLM-powered Applications`
 
 </div>
-<br/>
 
 ## 🛠️ Tech Stack
  <div align="left">
