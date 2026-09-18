@@ -74,13 +74,12 @@ Currently, I'm exploring **AI Agents and intelligent LLM-powered systems**. ✨
 
 <img src="https://img.shields.io/badge/LLMs-0a0a0a?style=for-the-badge&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/RAG-0a0a0a?style=for-the-badge&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/FAISS-0a0a0a?style=for-the-badge&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/ChromaDB-0a0a0a?style=for-the-badge&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Sentence_Transformers-0a0a0a?style=for-the-badge&logoColor=FFB6C1&labelColor=0a0a0a"/>
 
-<br/>
 
 🌐 Development
 
 <img src="https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Flask-0a0a0a?style=for-the-badge&logo=flask&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=FFB6C1&labelColor=0a0a0a"/>
 
-<br/>
+
 
 🗄️ Databases & Tools
 
