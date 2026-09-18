@@ -44,20 +44,22 @@
 
 ## 🌸 About Me
 
-```python
-class Lekasree:
+<div align="center">
 
-    role = "Final-year CSE Student · AI / ML Developer"
+### `Hi, I'm Lekasree 👋`
 
-    focus = [
-        "Generative AI",
-        "RAG",
-        "Computer Vision",
-        "LLM Applications"
-    ]
+**Final-year CSE Student · AI / ML Developer**
 
-    approach = "I learn by building — experiment, break, fix, ship."
+<br>
 
-    currently = "Exploring LLM-powered applications and intelligent systems"
+I enjoy building **AI-powered applications** and learning by turning ideas into working projects.
 
-    location = "India"
+<br>
+
+`🤖 Generative AI` &nbsp; `🔎 RAG` &nbsp; `👁️ Computer Vision` &nbsp; `🧠 LLMs`
+
+<br><br>
+
+**Currently exploring:** LLM Applications · RAG · AI Agents
+
+</div>
