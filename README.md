@@ -47,9 +47,9 @@ Currently, I'm exploring **AI Agents and intelligent LLM-powered systems**. ✨
 
 `Generative AI` · `RAG` · `Computer Vision` · `LLM Applications`
 
-<br><br>
+<br>
 
-☁️ **Currently exploring**
+🌸 **Currently exploring**
 
 `AI Agents` · `Semantic Search` · `LLM-powered Applications`
 
