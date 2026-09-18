@@ -36,19 +36,19 @@
 
 <br/>
 
-## 🌸 About Me
+## 🌸 ABOUT ME
 
 I'm a final-year Computer Science Engineering student passionate about **AI and Machine Learning**.  
 I enjoy building practical projects and exploring **Generative AI, RAG, Computer Vision, and LLMs**.  
 I learn best by experimenting, solving problems, and turning ideas into working applications.  
 Currently, I'm exploring **AI Agents and intelligent LLM-powered systems**. ✨
 
-🔻 **Focus**
+🔻 **FOCUS**
 
 `Generative AI` · `RAG` · `Computer Vision` · `LLM Applications`
 
 
-🔻 **Currently exploring**
+🔻 **CURRENTLY EXPLORING**
 
 `AI Agents` · `Semantic Search` · `LLM-powered Applications`
 
@@ -57,7 +57,7 @@ Currently, I'm exploring **AI Agents and intelligent LLM-powered systems**. ✨
 ## 🛠️ Tech Stack
  <div align="left">
 
-💻 Languages
+💻 LANGUAGES
 
 <img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=FFB6C1&labelColor=0a0a0a"/>
 
@@ -68,21 +68,21 @@ Currently, I'm exploring **AI Agents and intelligent LLM-powered systems**. ✨
 <img src="https://img.shields.io/badge/PyTorch-0a0a0a?style=for-the-badge&logo=pytorch&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/TensorFlow-0a0a0a?style=for-the-badge&logo=tensorflow&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Scikit--learn-0a0a0a?style=for-the-badge&logo=scikitlearn&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/OpenCV-0a0a0a?style=for-the-badge&logo=opencv&logoColor=FFB6C1&labelColor=0a0a0a"/>
 
 
-🧠 Generative AI
+🧠 GENERATIVE AI
 
 <img src="https://img.shields.io/badge/LLMs-0a0a0a?style=for-the-badge&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/RAG-0a0a0a?style=for-the-badge&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/FAISS-0a0a0a?style=for-the-badge&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/ChromaDB-0a0a0a?style=for-the-badge&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Sentence_Transformers-0a0a0a?style=for-the-badge&logoColor=FFB6C1&labelColor=0a0a0a"/>
 
 
-🌐 Development
+🌐 DEVELOPMENT
 
 <img src="https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Flask-0a0a0a?style=for-the-badge&logo=flask&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=FFB6C1&labelColor=0a0a0a"/>
 
 
 
-🗄️ Databases & Tools
+🗄️ DATABASES AND TOOLS
 
 <img src="https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=FFB6C1&labelColor=0a0a0a"/> </div>
-## ✔️ Selected Work
+## ✔️ SELECTED WORK
 
 <br/>
 
