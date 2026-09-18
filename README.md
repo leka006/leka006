@@ -98,7 +98,7 @@ Currently, I'm exploring **AI Agents and intelligent LLM-powered systems**. ✨
 </div>
 
 
-## ◈ Selected Work
+## ✔️ Selected Work
 
 <br/>
 
