@@ -38,17 +38,10 @@
 
 ## 🌸 About Me
 
-<div align="center">
-
-### Hey, I'm Lekasree! 🌷
-
-**Final-year CSE Student · AI / ML Developer**
-
-<br>
-
-Building with **AI, experimenting with ideas, and learning by doing.**
-
-<br>
+I'm a final-year Computer Science Engineering student passionate about **AI and Machine Learning**.  
+I enjoy building practical projects and exploring **Generative AI, RAG, Computer Vision, and LLMs**.  
+I learn best by experimenting, solving problems, and turning ideas into working applications.  
+Currently, I'm exploring **AI Agents and intelligent LLM-powered systems**. ✨
 
 🌸 **Focus**
 
