@@ -54,7 +54,7 @@ Currently, I'm exploring **AI Agents and intelligent LLM-powered systems**. ✨
 
 </div>
 
-## 🛠️ Tech Stack
+## 🛠️ TECK STACK
  <div align="left">
 
 💻 LANGUAGES
