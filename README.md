@@ -60,63 +60,48 @@ Currently, I'm exploring **AI Agents and intelligent LLM-powered systems**. ✨
 
 <div align="left">
 
-<h3>💻 Languages</h3>
+<p><strong><font size="5">💻 Languages</font></strong></p>
 
-<kbd>🐍 Python</kbd>
-&nbsp;
-<kbd>☕ Java</kbd>
-&nbsp;
-<kbd>JS JavaScript</kbd>
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=FFB6C1&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=FFB6C1&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=FFB6C1&labelColor=0d1117" />
 
 <br><br>
 
-<h3>🤖 AI / ML</h3>
+<p><strong><font size="5">🤖 AI / ML</font></strong></p>
 
-<kbd>🔥 PyTorch</kbd>
-&nbsp;
-<kbd>🔶 TensorFlow</kbd>
-&nbsp;
-<kbd>🧠 Scikit-learn</kbd>
-&nbsp;
-<kbd>👁️ OpenCV</kbd>
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=FFB6C1&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FFB6C1&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=FFB6C1&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=FFB6C1&labelColor=0d1117" />
 
 <br><br>
 
-<h3>🧠 Generative AI</h3>
+<p><strong><font size="5">🧠 Generative AI</font></strong></p>
 
-<kbd>LLMs</kbd>
-&nbsp;
-<kbd>RAG</kbd>
-&nbsp;
-<kbd>FAISS</kbd>
-&nbsp;
-<kbd>ChromaDB</kbd>
-&nbsp;
-<kbd>Sentence Transformers</kbd>
+<img src="https://img.shields.io/badge/LLMs-0d1117?style=for-the-badge&logoColor=FFB6C1&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logoColor=FFB6C1&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/FAISS-0d1117?style=for-the-badge&logoColor=FFB6C1&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logoColor=FFB6C1&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Sentence_Transformers-0d1117?style=for-the-badge&logoColor=FFB6C1&labelColor=0d1117" />
 
 <br><br>
 
-<h3>🌐 Development</h3>
+<p><strong><font size="5">🌐 Development</font></strong></p>
 
-<kbd>⚛️ React</kbd>
-&nbsp;
-<kbd>🌶️ Flask</kbd>
-&nbsp;
-<kbd>🌐 HTML5</kbd>
-&nbsp;
-<kbd>🎨 CSS3</kbd>
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=FFB6C1&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=FFB6C1&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=FFB6C1&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=FFB6C1&labelColor=0d1117" />
 
 <br><br>
 
-<h3>🗄️ Databases & Tools</h3>
+<p><strong><font size="5">🗄️ Databases & Tools</font></strong></p>
 
-<kbd>🐬 MySQL</kbd>
-&nbsp;
-<kbd>🍃 MongoDB</kbd>
-&nbsp;
-<kbd>🔀 Git</kbd>
-&nbsp;
-<kbd>🐙 GitHub</kbd>
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=FFB6C1&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=FFB6C1&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=FFB6C1&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FFB6C1&labelColor=0d1117" />
 
 </div>
 <br/>
