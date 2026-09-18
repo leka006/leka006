@@ -56,56 +56,46 @@ Currently, I'm exploring **AI Agents and intelligent LLM-powered systems**. ✨
 </div>
 
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 <div align="left">
 
-<p><strong><font size="5">💻 Languages</font></strong></p>
+### 💻 Languages
 
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=FFB6C1&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=FFB6C1&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=FFB6C1&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFB6C1&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFB6C1&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFB6C1&labelColor=0D1117" />
 
-<br><br>
+### 🤖 AI / ML
 
-<p><strong><font size="5">🤖 AI / ML</font></strong></p>
+<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=FFB6C1&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FFB6C1&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=FFB6C1&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=FFB6C1&labelColor=0D1117" />
 
-<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=FFB6C1&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FFB6C1&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=FFB6C1&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=FFB6C1&labelColor=0d1117" />
+### 🧠 Generative AI
 
-<br><br>
+<img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge&logoColor=FFB6C1&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logoColor=FFB6C1&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/FAISS-0D1117?style=for-the-badge&logoColor=FFB6C1&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge&logoColor=FFB6C1&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Sentence--Transformers-0D1117?style=for-the-badge&logoColor=FFB6C1&labelColor=0D1117" />
 
-<p><strong><font size="5">🧠 Generative AI</font></strong></p>
+### 🌐 Development
 
-<img src="https://img.shields.io/badge/LLMs-0d1117?style=for-the-badge&logoColor=FFB6C1&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logoColor=FFB6C1&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/FAISS-0d1117?style=for-the-badge&logoColor=FFB6C1&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logoColor=FFB6C1&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Sentence_Transformers-0d1117?style=for-the-badge&logoColor=FFB6C1&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=FFB6C1&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFB6C1&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FFB6C1&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=FFB6C1&labelColor=0D1117" />
 
-<br><br>
+### 🗄️ Databases & Tools
 
-<p><strong><font size="5">🌐 Development</font></strong></p>
-
-<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=FFB6C1&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=FFB6C1&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=FFB6C1&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=FFB6C1&labelColor=0d1117" />
-
-<br><br>
-
-<p><strong><font size="5">🗄️ Databases & Tools</font></strong></p>
-
-<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=FFB6C1&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=FFB6C1&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=FFB6C1&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FFB6C1&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FFB6C1&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=FFB6C1&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FFB6C1&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFB6C1&labelColor=0D1117" />
 
 </div>
-<br/>
-
 
 
 ## ◈ Selected Work
