@@ -54,62 +54,51 @@ Currently, I'm exploring **AI Agents and intelligent LLM-powered systems**. ✨
 `AI Agents` · `Semantic Search` · `LLM-powered Applications`
 
 </div>
----
 
-## ◈ Tech Stack
 
-<br/>
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 
-<img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=b5179e"/>
-<img src="https://img.shields.io/badge/Java-0a0a0a?style=flat-square&logo=openjdk&logoColor=b5179e"/>
-<img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=b5179e"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=ff69b4"/>
 
-<br/><br/>
+### 🤖 AI / ML
 
-### AI / ML
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=ff69b4"/>
 
-<img src="https://img.shields.io/badge/PyTorch-0a0a0a?style=flat-square&logo=pytorch&logoColor=f72585"/>
-<img src="https://img.shields.io/badge/TensorFlow-0a0a0a?style=flat-square&logo=tensorflow&logoColor=f72585"/>
-<img src="https://img.shields.io/badge/scikit--learn-0a0a0a?style=flat-square&logo=scikitlearn&logoColor=f72585"/>
-<img src="https://img.shields.io/badge/OpenCV-0a0a0a?style=flat-square&logo=opencv&logoColor=f72585"/>
+### 🧠 Generative AI
 
-<br/><br/>
+<img src="https://img.shields.io/badge/LLMs-0d1117?style=for-the-badge&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/FAISS-0d1117?style=for-the-badge&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/Sentence_Transformers-0d1117?style=for-the-badge&logoColor=ff69b4"/>
 
-### Generative AI
+### 🌐 Development
 
-<img src="https://img.shields.io/badge/LLMs-0a0a0a?style=flat-square&logoColor=e0aaff"/>
-<img src="https://img.shields.io/badge/RAG-0a0a0a?style=flat-square&logoColor=e0aaff"/>
-<img src="https://img.shields.io/badge/FAISS-0a0a0a?style=flat-square&logoColor=e0aaff"/>
-<img src="https://img.shields.io/badge/ChromaDB-0a0a0a?style=flat-square&logoColor=e0aaff"/>
-<img src="https://img.shields.io/badge/Sentence%20Transformers-0a0a0a?style=flat-square&logoColor=e0aaff"/>
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=ff69b4"/>
 
-<br/><br/>
+### 🗄️ Databases & Tools
 
-### Development
-
-<img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=7b2ff7"/>
-<img src="https://img.shields.io/badge/Flask-0a0a0a?style=flat-square&logo=flask&logoColor=7b2ff7"/>
-<img src="https://img.shields.io/badge/HTML5-0a0a0a?style=flat-square&logo=html5&logoColor=7b2ff7"/>
-<img src="https://img.shields.io/badge/CSS3-0a0a0a?style=flat-square&logo=css3&logoColor=7b2ff7"/>
-
-<br/><br/>
-
-### Databases & Tools
-
-<img src="https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=c77dff"/>
-<img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=c77dff"/>
-<img src="https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=c77dff"/>
-<img src="https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=c77dff"/>
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ff69b4"/>
 
 </div>
-
 <br/>
 
----
+
 
 ## ◈ Selected Work
 
@@ -129,6 +118,6 @@ Currently, I'm exploring **AI Agents and intelligent LLM-powered systems**. ✨
 
 <br/>
 
----
+
 
 
