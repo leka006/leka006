@@ -36,27 +36,31 @@
 
 <br/>
 
-```python
-class Lekasree:
+## 🌸 About Me
 
-    role = "Final-year CSE Student · AI / ML Developer"
+<div align="center">
 
-    focus = [
-        "Generative AI",
-        "RAG",
-        "Computer Vision",
-        "LLM Applications"
-    ]
+### Hey, I'm Lekasree! 🌷
 
-    approach = "I learn by building — experiment, break, fix, ship."
+**Final-year CSE Student · AI / ML Developer**
 
-    currently = "Exploring LLM-powered applications and intelligent systems"
+<br>
 
-    location = "India"
-```
+Building with **AI, experimenting with ideas, and learning by doing.**
 
-<br/>
+<br>
 
+🌸 **Focus**
+
+`Generative AI` · `RAG` · `Computer Vision` · `LLM Applications`
+
+<br><br>
+
+☁️ **Currently exploring**
+
+`AI Agents` · `Semantic Search` · `LLM-powered Applications`
+
+</div>
 ---
 
 ## ◈ Tech Stack
