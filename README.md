@@ -58,22 +58,22 @@ Currently, I'm exploring **AI Agents and intelligent LLM-powered systems**. ✨
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
-### 💻 Languages
+<h3>💻 Languages</h3>
 
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ff69b4"/>
 <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ff69b4"/>
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=ff69b4"/>
 
-### 🤖 AI / ML
+<h3>🤖 AI / ML</h3>
 
 <img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=ff69b4"/>
 <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=ff69b4"/>
 <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=ff69b4"/>
 <img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=ff69b4"/>
 
-### 🧠 Generative AI
+<h3>🧠 Generative AI</h3>
 
 <img src="https://img.shields.io/badge/LLMs-0d1117?style=for-the-badge&logoColor=ff69b4"/>
 <img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logoColor=ff69b4"/>
@@ -81,14 +81,14 @@ Currently, I'm exploring **AI Agents and intelligent LLM-powered systems**. ✨
 <img src="https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logoColor=ff69b4"/>
 <img src="https://img.shields.io/badge/Sentence_Transformers-0d1117?style=for-the-badge&logoColor=ff69b4"/>
 
-### 🌐 Development
+<h3>🌐 Development</h3>
 
 <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=ff69b4"/>
 <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=ff69b4"/>
 <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=ff69b4"/>
 <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=ff69b4"/>
 
-### 🗄️ Databases & Tools
+<h3>🗄️ Databases & Tools</h3>
 
 <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=ff69b4"/>
 <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=ff69b4"/>
