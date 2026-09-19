@@ -43,18 +43,18 @@ I enjoy building practical projects and exploring **Generative AI, RAG, Computer
 I learn best by experimenting, solving problems, and turning ideas into working applications.  
 Currently, I'm exploring **AI Agents and intelligent LLM-powered systems**. ✨
 
-🔻 **FOCUS**
+ **FOCUS**
 
 `Generative AI` · `RAG` · `Computer Vision` · `LLM Applications`
 
 
-🔻 **CURRENTLY EXPLORING**
+ **CURRENTLY EXPLORING**
 
 `AI Agents` · `Semantic Search` · `LLM-powered Applications`
 
 </div>
 
-## 🛠️ TECK STACK
+##  TECK STACK
  <div align="left">
 
 💻 LANGUAGES
@@ -82,7 +82,7 @@ Currently, I'm exploring **AI Agents and intelligent LLM-powered systems**. ✨
 🗄️ DATABASES AND TOOLS
 
 <img src="https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=FFB6C1&labelColor=0a0a0a"/> <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=FFB6C1&labelColor=0a0a0a"/> </div>
-## ✔️ SELECTED WORK
+##  SELECTED WORK
 
 <br/>
 
